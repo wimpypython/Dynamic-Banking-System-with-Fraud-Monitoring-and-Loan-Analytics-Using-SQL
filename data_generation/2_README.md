@@ -49,3 +49,5 @@ All customer data is randomly generated but structured to resemble realistic Ind
 Cities are randomly selected from major Indian metropolitan areas.
 
 KYC status is set to `"VERIFIED"` for baseline testing.
+
+The uploaded accounts, customers, loans and transactions tables are created using the python code given in 1_generate_data. 

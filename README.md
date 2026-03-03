@@ -1,4 +1,4 @@
-# Dynamic-Banking-System-with-Fraud-Monitoring-and-Loan-Analytics-Using-SQL
+# Banking-Transaction-System-with-Real-Time-Fraud-Detection
 PostgreSQL banking system with atomic transactions, real-time fraud detection and demonstrating ACID transactions.
 
 ---
